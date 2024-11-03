@@ -1,4 +1,4 @@
-# Gmail Account Creator
+# Gmail Account Creator.
 
 This Python script can be used to generate random Gmail accounts. The script creates Gmail accounts using random user agents and saves the generated account information in a file.
 
